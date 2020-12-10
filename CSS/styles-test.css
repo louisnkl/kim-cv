@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: #07689f;
+}
+
+.white {
+  background-color: #1e2022;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 70px;
+  top: 30px;
+
+}
+.grey {
+  background-color: #52616b;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 40px;
+  top: 10px
+}
+
+.black {
+  background-color: #fdfdfd;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 10px;
+}
